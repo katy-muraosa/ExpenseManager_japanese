@@ -37,7 +37,7 @@
 ### ④ パッケージおよびモジュール
 - PySide6 （GUI描画）
 - matplotlib (円グラフ描画)
-- pandas(データの整形)
+- pandas(データの取得)
 - json（保存ファイル作成・読み込み）
 ### ⑤ アプリケーション化
 - Pyinstaller 6.14.1
