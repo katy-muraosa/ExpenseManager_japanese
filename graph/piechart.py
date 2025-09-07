@@ -2,7 +2,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 import matplotlib
 
-matplotlib.rcParams['font.family'] = 'Hiragino Sans'
+matplotlib.rcParams['font.family'] = 'MS Gothic'#
 
 class PieChart(FigureCanvas):
     def __init__(self, parent=None):
